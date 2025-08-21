@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="fork"
+          fetch="https://github.com/miatoolineage"
+          revision="refs/heads/lineage-19.1" />
+
+  <project path="android" name="android_manifest" remote="fork" />
+
+</manifest>

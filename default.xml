@@ -1050,7 +1050,6 @@
 
   <include name="snippets/lineage.xml" />
   <include name="snippets/fork.xml" />
-  <include name="snippets/pixel.xml" />
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 </manifest>
